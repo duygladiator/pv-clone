@@ -17,11 +17,7 @@
 
   {{-- @main --}}
   <main>
-    <div class="container">
-      <div class="row">
-        <div class="col-3"></div>
-      </div>
-    </div>
+    @yield('content')
   </main>
   {{-- @endmain --}}
 
