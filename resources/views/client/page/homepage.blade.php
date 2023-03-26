@@ -1,3 +1,6 @@
 @extends('client.master')
 
-@section('')
+@section('content')
+  @extends('client.blocks.humberger')
+  @extends('client.blocks.hero-section')
+@endsection
