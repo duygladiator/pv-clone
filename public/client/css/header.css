@@ -1,0 +1,106 @@
+.nav1 {
+    background-color: #1435c3;
+    height: 42px;
+}
+
+.css-nav1 {
+    padding-right: 16px;
+    padding-left: 16px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: none;
+    border-width: none;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.css-nav1-inside {
+    display: inline-flex;
+}
+
+.css-btn {
+    padding: 0rem 1.25rem;
+    height: 100%;
+    background-color: transparent;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    outline: none;
+    border: none;
+    height: 42px;
+}
+
+.css-pvbtn {
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    text-decoration: unset;
+    font-size: 13px;
+    line-height: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+
+.css-svg-space {
+    padding: 3px;
+}
+
+.css-svg {
+    color: white;
+}
+
+.css-nav2 {
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 1050;
+    box-shadow: 0 0.5rem 1rem 0 rgb(0, 0, 0 / 10%);
+}
+
+.css-nav2-inside {
+    padding-right: 16px;
+    padding-left: 16px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: none;
+    border-width: 1px;
+    opacity: 1;
+    max-width: 1232px;
+}
+
+.nav2-elements {
+    display: flex;
+    margin-top: 25px;
+    gap: 30px;
+}
+
+.css-7wh3a0 {
+    display: inline-block;
+    width: 100%;
+}
+
+.css-7kp13n {
+    display: inline-block;
+}
